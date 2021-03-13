@@ -1,7 +1,5 @@
-# JHScript: Haiku-Generator (complex)
+# JHScript: Haiku-Creator
 
-A much more complex version of the initial https://github.com/Jefaxe/jhscript--haiku-generator/tree/basic
- 
-This version will be able to create its own haikus, when finnished.
-
-ALPHA.
+This program creates haikus itself, when completed. 
+Currently can make sentences. 
+ALPAHA
